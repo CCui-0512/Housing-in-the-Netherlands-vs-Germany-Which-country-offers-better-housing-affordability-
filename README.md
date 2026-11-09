@@ -2,8 +2,17 @@
 
 ---
 
-**Project Type:** Customer Intelligence | BigQuery → Power BI  
-**Tools:** SQL (BigQuery), Power BI, Google Cloud Platform
+## Comparison Framework
+
+| Dimension | Indicators to Investigate |
+|--------|--------|
+| Housing affordability | House prices, rent, income |
+| Rental market | Average rent, rent growth, rental share |
+| Homeownership | Ownership rate, mortgage affordability |
+| Housing supply | Housing stock, construction, shortage estimates |
+| Living conditions | Overcrowding, dwelling size |
+| Economic pressure | Housing costs as % of income |
+| Regional differences | Capital cities vs other regions |
 
 ---
 
